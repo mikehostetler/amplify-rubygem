@@ -1,9 +1,8 @@
 # -*- encoding: utf-8 -*-
-require File.join(File.dirname(__FILE__), 'lib/amplify/version')
 
 Gem::Specification.new do |s|
   s.name = "amplify"
-  s.version = Amplify::VERSION
+  s.version = "1.0.1"
   s.authors = ["Scott González", "Andrew Wirick", "Jonathan Sharp", "Douglas Neiner", "Ralph Whitbeck", "Andrew Powell", "Elijah Manor"]
   s.email = "alassek@lyconic.com"
   s.homepage = "http://amplifyjs.com"
