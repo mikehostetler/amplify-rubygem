@@ -2,8 +2,8 @@
 
 This is the Rubygems package for the Amplify Component Framework.
 
-*Project Homepage:* <http://amplifyjs.com/>
-*GitHub Page:* <https://github.com/appendto/amplify>
+**Project Homepage:** <http://amplifyjs.com/>  
+**GitHub Page:** <https://github.com/appendto/amplify>  
 
 ## Installation
 
