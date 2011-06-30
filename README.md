@@ -23,7 +23,7 @@ You can also include it in pieces:
 
 `//= require amplify/core` for just pub/sub  
 `//= require amplify/request` (includes core)  
-`//= require amplify/store` (includes core)  
+`//= require amplify/store`  
 
 For more information see the [project homepage](http://amplifyjs.com/).
 
