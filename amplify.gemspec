@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name = "amplify"
-  s.version = "1.0.1"
+  s.version = "1.1.0"
   s.authors = ["Scott González", "Andrew Wirick", "Jonathan Sharp", "Douglas Neiner", "Ralph Whitbeck", "Andrew Powell", "Elijah Manor"]
   s.email = "alassek@lyconic.com"
   s.homepage = "http://amplifyjs.com"
