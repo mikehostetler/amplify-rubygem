@@ -11,8 +11,8 @@ Gem::Specification.new do |s|
   s.licenses = ['MIT', 'GPL-2']
 
   s.platform = Gem::Platform::RUBY
-  s.files = Dir["lib/**/*.rb", "app/assets/javascripts/**/*.js.erb"]
+  s.files = Dir["lib/**/*.rb", "lib/assets/javascripts/**/*.js.erb"]
   s.require_path = 'lib'
-  s.add_dependency "jquery-rails", "~> 1.0.12"
-  s.add_dependency "sprockets", ">= 2.0.0.beta.10"
+  s.add_dependency "jquery-rails", "~> 1.0"
+  s.add_dependency "sprockets", "~> 2.1"
 end
