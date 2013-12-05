@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name = "amplify"
-  s.version = "1.1.1"
+  s.version = "1.1.2"
   s.authors = ["Scott González", "Andrew Wirick", "Jonathan Sharp", "Douglas Neiner", "Ralph Whitbeck", "Andrew Powell", "Elijah Manor"]
   s.email = "alassek@lyconic.com"
   s.homepage = "http://amplifyjs.com"
@@ -13,6 +13,6 @@ Gem::Specification.new do |s|
   s.platform = Gem::Platform::RUBY
   s.files = Dir["lib/**/*.rb", "lib/assets/javascripts/**/*.js.erb"]
   s.require_path = 'lib'
-  s.add_dependency "jquery-rails", "~> 1.0"
+  s.add_dependency "jquery-rails"
   s.add_dependency "sprockets", "~> 2"
 end
